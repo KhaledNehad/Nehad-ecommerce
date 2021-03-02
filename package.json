@@ -1,0 +1,15 @@
+{
+  "name": "Nehad-Shop",
+  "version": "1.0.0",
+  "description": "Nehad Shop",
+  "main": "index.js",
+  "repository": "https://github.com/KhaledNehad/Nehad-ecommerce.git",
+  "author": "khalednehad <khalednehad@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "watch": "node server/server"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
